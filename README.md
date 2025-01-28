@@ -56,4 +56,4 @@ Analyzing rental trends over time revealed peaks and troughs in customer activit
 
 ### Source
 
-Dataset: [Iris Species Dataset on Kaggle](https://www.kaggle.com/datasets/raniajaberi/sakila-data-set) 
+Dataset: [Sakila Sample Database on Kaggle](https://www.kaggle.com/datasets/raniajaberi/sakila-data-set) 
