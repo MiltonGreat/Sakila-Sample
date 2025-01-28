@@ -26,6 +26,8 @@ The Sakila database includes tables such as:
 
 ### Key Insights
 
+![screenshot-localhost_8888-2025 01 28-10_32_15](https://github.com/user-attachments/assets/7a18fb40-8979-4329-ae2f-075e04f35ce9)
+
 #### 1. Top 5 Movies by Rentals
 
 The most rented movies, such as "BUCKET BROTHERHOOD" and "ROCKETEER MOTHER," demonstrate customer preferences.
@@ -54,5 +56,4 @@ Analyzing rental trends over time revealed peaks and troughs in customer activit
 
 ### Source
 
-https://www.kaggle.com/datasets/raniajaberi/sakila-data-set
-  
+Dataset: [Iris Species Dataset on Kaggle](https://www.kaggle.com/datasets/raniajaberi/sakila-data-set) 
